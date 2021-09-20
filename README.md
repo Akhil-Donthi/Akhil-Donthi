@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akhil-Donthi
 - 👀 I’m interested in ... Java Programming
 - 🌱 I’m currently learning ... Spring Boot
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... Coding
 - 📫 How to reach me ... akhilkumarmca@hotmail.com
 
 <!---
